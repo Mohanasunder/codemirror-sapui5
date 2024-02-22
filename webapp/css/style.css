@@ -1,0 +1,10 @@
+/* Enter your custom styles here */
+
+.CodeMirror-merge,.CodeMirror-merge .CodeMirror {
+    border: 1px solid #eee;
+    height: 600px;
+}
+
+.block {
+    display: block;
+}

@@ -1,0 +1,10 @@
+<mvc:View controllerName="project1.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="CodeMirror: Merge View">
+        <content>
+            <HBox id="merge-view" class="block">
+            </HBox>
+        </content>
+    </Page>
+</mvc:View>
